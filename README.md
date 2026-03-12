@@ -9,14 +9,6 @@ AI-Based Network Traffic Anomaly Detection System using **Machine Learning, Flas
 This project detects abnormal network traffic patterns that may indicate cyber threats such as **DDoS attacks**.
 
 The system analyzes network traffic data using a **Machine Learning model (Isolation Forest)** and displays the results through a **web-based monitoring dashboard**.
-
----
-
-## 🖥 Live Demo
-
-AWS EC2 Deployment  
-http://YOUR-EC2-IP:5000
-
 ---
 
 ## ⚙ Tech Stack
