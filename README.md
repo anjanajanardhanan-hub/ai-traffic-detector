@@ -11,6 +11,21 @@ This project detects abnormal network traffic patterns that may indicate cyber t
 The system analyzes network traffic data using a **Machine Learning model (Isolation Forest)** and displays the results through a **web-based monitoring dashboard**.
 ---
 
+## 📸 Project Screenshots
+
+### Login Page
+![Login Page](login.png)
+
+### Monitoring Dashboard
+![Dashboard](dashboard.png)
+
+### Traffic Graph
+![Graph](graph.png)
+
+### Traffic Data Table
+![Table](table.png)
+---
+
 ## ⚙ Tech Stack
 
 ### Frontend
