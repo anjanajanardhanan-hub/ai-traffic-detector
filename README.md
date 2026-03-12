@@ -67,8 +67,7 @@ Detect abnormal network behavior based on traffic patterns.
 ---
 
 ## 👨‍💻 Team
-
-Final Year **BCA Project — Izee Business School**
+ **BCA project — Izee Business School**
 
 | Name | Role |
 |-----|-----|
