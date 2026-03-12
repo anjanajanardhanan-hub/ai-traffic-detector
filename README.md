@@ -1,132 +1,123 @@
-# 🚦 AI Traffic Detector
+🚦 AI Traffic Detector
 
-AI-Based Network Traffic Anomaly Detection System using **Machine Learning, Flask, and AWS EC2**
-
----
-
-## 🚀 Project Overview
-
-This project detects abnormal network traffic patterns that may indicate cyber threats such as **DDoS attacks**.
-
-The system analyzes network traffic data using a **Machine Learning model (Isolation Forest)** and displays the results through a **web-based monitoring dashboard.
+AI-Based Network Traffic Anomaly Detection System using Machine Learning, Flask, and AWS EC2
 
 ---
 
-## 📸 Project Screenshots
+🚀 Project Overview
 
-### Login Page
+This project detects abnormal network traffic patterns that may indicate cyber threats such as DDoS attacks.
 
-![Login Page](login.png)
-
-### Monitoring Dashboard
-
-![Dashboard](dashboard.png)
-
-### Traffic Graph
-
-![Graph](graph.png)
-
-### Traffic Data Table
-
-![Table](table.png)
+The system analyzes network traffic data using a Machine Learning model (Isolation Forest) and displays the results through a web-based monitoring dashboard.
 
 ---
 
-## ⚙️ Tech Stack
+🎥 Demo Video
 
-### Frontend
+Watch the demonstration of the system below:
 
-* HTML
-* CSS
 
-### Backend
-
-* Python
-* Flask
-
-### Machine Learning
-
-* Isolation Forest Algorithm
-
-### Cloud Platform
-
-* AWS EC2
 
 ---
 
-## 📊 System Workflow
+📸 Project Screenshots
 
-1️⃣ User enters network traffic values
+Login Page
 
-* Requests per minute
-* Failed requests
+"Login Page" (login.png)
 
-2️⃣ Flask backend processes the input.
+Monitoring Dashboard
 
-3️⃣ The Machine Learning model analyzes the traffic pattern.
+"Dashboard" (dashboard.png)
 
-4️⃣ The system determines whether the traffic is **Normal or Anomalous**.
+Traffic Graph
 
-5️⃣ The system also displays **IP location information**.
+"Graph" (graph.png)
+
+Traffic Data Table
+
+"Table" (table.png)
 
 ---
 
-## 🧠 Machine Learning Model
+⚙️ Tech Stack
 
-**Algorithm Used:**
+Frontend
+
+HTML
+CSS
+
+Backend
+
+Python
+Flask
+
+Machine Learning
+
+Isolation Forest Algorithm
+
+Cloud Platform
+
+AWS EC2
+
+---
+
+⚙️ How It Works
+
+1️⃣ The user logs into the system through the login page.
+
+2️⃣ The user enters network traffic values such as:
+
+- Requests per minute
+- Failed requests
+
+3️⃣ The Flask backend receives the input data.
+
+4️⃣ The data is sent to the Machine Learning model (Isolation Forest).
+
+5️⃣ The model analyzes the traffic pattern and determines whether the traffic is Normal or Anomalous.
+
+6️⃣ The result is displayed on the monitoring dashboard.
+
+7️⃣ The system also generates:
+
+- Traffic graphs
+- Traffic data tables
+- IP location information
+
+---
+
+🧠 Machine Learning Model
+
+Algorithm Used:
 Isolation Forest
 
-**Purpose:**
+Purpose:
 Detect abnormal network behavior based on traffic patterns.
 
 ---
 
-## 📂 Project Structure
+👨‍💻 Team
 
-ai-traffic-detector
-│
-├── app.py
-├── model.py
-├── graph.py
-├── dataset.csv
-│
-├── templates
-│   ├── login.html
-│   └── index.html
-│
-├── static
-│   └── graph.png
-│
-├── login.png
-├── dashboard.png
-├── graph.png
-├── table.png
-└── README.md
+BCA Academic Project — Izee Business School
+
+Name| Role
+Anjana Janardhanan| Project Developer
+Adithya| Team Member
+Greeshma| Team Member
 
 ---
 
-## 👨‍💻 Team
+☁️ Deployment
 
-**BCA Academic Project — Izee Business School**
-
-| Name               | Role              |
-| ------------------ | ----------------- |
-| Anjana Janardhanan | Project Developer |
-| Adithya            | Team Member       |
-| Greeshma           | Team Member       |
+The application is deployed on AWS EC2, allowing the system to run as a cloud-based monitoring dashboard.
 
 ---
 
-## ☁️ Deployment
+📜 License
 
-The application is deployed on **AWS EC2**, allowing the system to run as a cloud-based monitoring dashboard accessible through a public IP address.
-
----
-
-## 📜 License
-
-This project is developed for **educational purposes**.
+This project is developed for educational purposes.
 
 ---
 
-⭐ Built using **Python, Machine Learning, and AWS**
+⭐ Built using Python, Machine Learning, and AWS
