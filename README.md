@@ -15,8 +15,7 @@ The system analyzes network traffic data using a Machine Learning model (Isolati
 🎥 Demo Video
 
 Watch the demonstration of the system below:
-
-
+[Watch Video](demo video.mp4)
 
 ---
 
@@ -103,8 +102,8 @@ BCA Academic Project — Izee Business School
 
 Name| Role
 Anjana Janardhanan| Project Developer
-Adithya| Team Member
-Greeshma| Team Member
+Adithya| project presentation and documentation support
+Greeshma| project presentation and documentation support
 
 ---
 
