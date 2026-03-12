@@ -14,28 +14,25 @@ The system analyzes network traffic data using a Machine Learning model (Isolati
 
 🎥 Demo Video
 
-Watch the demonstration of the system below:
-[Watch Video](demo video.mp4)
+ watch the demo here:
+
+[▶ Watch Demo Video](demo-video.mp4)
 
 ---
 
 📸 Project Screenshots
 
-Login Page
+### Login Page
+![Login Page](login.png)
 
-"Login Page" (login.png)
+### Monitoring Dashboard
+![Dashboard](dashboard.png)
 
-Monitoring Dashboard
+### Traffic Graph
+![Graph](graph.png)
 
-"Dashboard" (dashboard.png)
-
-Traffic Graph
-
-"Graph" (graph.png)
-
-Traffic Data Table
-
-"Table" (table.png)
+### Traffic Data Table
+![Table](table.png)
 
 ---
 
@@ -100,10 +97,11 @@ Detect abnormal network behavior based on traffic patterns.
 
 BCA Academic Project — Izee Business School
 
-Name| Role
-Anjana Janardhanan| Project Developer
-Adithya| project presentation and documentation support
-Greeshma| project presentation and documentation support
+| Name | Role |
+|------|------|
+| Anjana Janardhanan | Project Developer |
+| Adithya | Project presentation and documentation support |
+| Greeshma | Project presentation and documentation support |
 
 ---
 
