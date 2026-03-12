@@ -14,9 +14,7 @@ The system analyzes network traffic data using a Machine Learning model (Isolati
 
 🎥 Demo Video
 
- watch the demo here:
-
-[▶ Watch Demo Video](demo-video.mp4)
+[▶ Download Demo Video](demo-video.mp4)
 
 ---
 
